@@ -1,1 +1,7 @@
 https://hackernoon.com/how-to-run-text-summarization-with-tensorflow-d4472587602d
+https://medium.com/the-ai-herald/a-qualitative-introduction-to-automatic-text-summarization-30f025c853c0 Medium
+https://github.com/zwc12/Summarization github
+https://github.com/thunlp/TensorFlow-Summarization github
+https://github.com/thunlp/TensorFlow-Summarization github
+https://github.com/llSourcell/How_to_make_a_text_summarizer github
+https://github.com/dongjun-Lee/text-summarization-tensorflow github
